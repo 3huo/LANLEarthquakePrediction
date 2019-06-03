@@ -1,2 +1,2 @@
 # LANLEarthquakePrediction
-地址预测比赛
+地震预测比赛
